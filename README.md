@@ -10,3 +10,7 @@ Data is collected from a free JSON API. You can also get specific countrywise st
 It requires Twython and requests libraries to run.
 To install dependencies, run the following command:
 >pip install twython && pip install requests
+
+
+
+![Screenshot](https://lh3.googleusercontent.com/xtliX4YUEgPbOFhGMlo0xj7boROYF8FGO-9jNTNgiyYlGv76LblLB7xb1ZPr21Zz_j5ZPT3zcVjuVdlcuAY1vN4bb4AarTYLlBQY5_Y9fU0UxLG0yliGlxtma47hD6JbZQMSSJgG_5g=w590-h130-no)
